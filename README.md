@@ -11,8 +11,8 @@ CS Books:
 8. [Compilers: Principles, Techniques, and Tools by Alfred Aho](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf);
 
 Courses:
-1. [C++/C# Starter, Essential, Advanced by ITVDN](https://itvdn.com/ru/specialities/cplspls);
-2. [Искусство разработки на современном C++ Specialization, пояса](https://www.coursera.org/specializations/c-plus-plus-modern-development);
+1. [Искусство разработки на современном C++ Specialization, пояса](https://www.coursera.org/specializations/c-plus-plus-modern-development);
+2. [C++/C#/Python Starter, Essential, Advanced by ITVDN](https://itvdn.com/ru);
 3. [Modern C++ Concurrency: Get the most out of any machine by Rainer Grimm](https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine);
 
 Interviews:
@@ -21,17 +21,19 @@ Interviews:
 3. [C++ Quiz](https://cppquiz.org);
 4. [C++ Cherno Youtube channel](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&ab_channel=TheCherno);
 
-Algo + System Design:
+Algorithms:
 1. [Leetcode](https://leetcode.com/);
 2. [Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s](https://cpbook.net);
-3. [Grokking the System Design Interview by Design Gurus](https://www.educative.io/courses/grokking-the-system-design-interview);
-4. [Tech Dummies Narendra L YouTube channel](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX);
-5. [Gaurav Sen YouTube channel](https://youtu.be/dUMWMZmMsVE);
-6. [System Design Interview Youtube channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ);
-7. [Grokking the Advanced System Design Interview](https://www.educative.io/courses/grokking-adv-system-design-intvw);
-8. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview);
-9. [Designing Data-Intensive Applications by Martin Kleppmann](http://xfido.com/pdf/designing-data-intensive-applications.pdf);
-10. [Cracking the Coding Interview by Gayle Laakmann McDowell](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf);
+3. [Grokking the Coding Interview by Design Gurus](https://www.educative.io/courses/grokking-the-coding-interview);
+4. [Cracking the Coding Interview by Gayle Laakmann McDowell](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf);
+
+Systems Design:
+1. [Grokking the System Design Interview by Design Gurus](https://www.educative.io/courses/grokking-the-system-design-interview);
+2. [Tech Dummies Narendra L YouTube channel](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX);
+3. [Gaurav Sen YouTube channel](https://youtu.be/dUMWMZmMsVE);
+4. [System Design Interview Youtube channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ);
+5. [Grokking the Advanced System Design Interview by Design Gurus](https://www.educative.io/courses/grokking-adv-system-design-intvw);
+6. [Designing Data-Intensive Applications by Martin Kleppmann](http://xfido.com/pdf/designing-data-intensive-applications.pdf);
 
 Telegram:
 1. @it_chats(@supapro, @ProCxx, @proalgorithms, @jvmchat);
