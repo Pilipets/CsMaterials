@@ -36,6 +36,6 @@ Systems Design:
 6. [Designing Data-Intensive Applications by Martin Kleppmann](http://xfido.com/pdf/designing-data-intensive-applications.pdf);
 
 Telegram:
-1. @it_chats(@supapro, @ProCxx, @proalgorithms, @jvmchat);
-2. @FaangInterview;
-3. @startupneversleeps;
+1. Tech discussions - @it_chats(@supapro, @ProCxx, @proalgorithms, @jvmchat);
+2. Interviews - @FaangInterview(@FaangTechInterview, @FloodInterview), @startupneversleeps(@sns_internships, @sns_newgrad);
+3. Beginner jobs in Ukraine - @univwork, @cybervacancies, @kpi_work, @cyberknu, @junior_dou_ua, @itkpi, @UgenChallengeIT;
