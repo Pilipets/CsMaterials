@@ -1,4 +1,4 @@
-Here is my list of must-read books, must-take courses and other useful links to ace any Junior-Middle interview.
+Here is my list of must-read books, must-take courses and other useful links to ace any Middle, Junior and Intern interview.
 
 Algorithms:
 1. [Leetcode](https://leetcode.com/) and [LC contest patterns](https://github.com/Pilipets/Leetcode-patterns);
@@ -7,9 +7,8 @@ Algorithms:
 4. [Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s](https://cpbook.net);
 
 Concurrency problems:
-1. [Modern C++ Concurrency: Get the most out of any machine by Rainer Grimm](https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine);
+1. [C++ Concurrency in Action by Anthony Williams](https://www.bogotobogo.com/cplusplus/files/CplusplusConcurrencyInAction_PracticalMultithreading.pdf);
 2. [The Little Book of Semaphores by Allen B. Downey](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf);
-3. [C++ Concurrency in Action by Anthony Williams](https://www.bogotobogo.com/cplusplus/files/CplusplusConcurrencyInAction_PracticalMultithreading.pdf);
 
 C++/CS interview questions:
 1. [Interview on C++. 400+ questions for Junior, Middle, Senior by dou](https://dou.ua/lenta/articles/interview-questions-c-developer);
